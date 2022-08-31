@@ -1,9 +1,8 @@
-# Homework 2
  
 <!DOCTYPE html>
 <html>
   <head>
-    <title>HW 2</title>
+    
     <title>HW 2- Rangoonwala</title>
   </head>
   <body>
