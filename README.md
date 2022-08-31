@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
-    <title>HW 2- Rangoonwala</title>
+   
   </head>
   <body>
     <h1></h1>
