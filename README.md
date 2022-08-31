@@ -13,7 +13,7 @@
 
   Link to Git.hub folder with GeoJson Vectors and polygon
 
-  <a href="">  https://github.com/Samadrangoonwala/Homework-2/tree/HW/Rangoonwala%20HW2</a>
+  <a href="https://github.com/Samadrangoonwala/Homework-2/tree/HW/Rangoonwala%20HW2"> </a>
 <h2> Map PNG (Map rendering really large you might need to zoom out </h2>
   <img src ="HW2 Map.png" />
   
