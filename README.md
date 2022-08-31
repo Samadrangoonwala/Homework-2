@@ -12,8 +12,9 @@
   http://maps.co.mecklenburg.nc.us/openmapping/data.html
 
   Link to Git.hub folder with GeoJson Vectors and polygon
-<a href="https://github.com/Samadrangoonwala/Homework-2/tree/HW/Rangoonwala%20HW2">
-<h2> Map PNG =</h2>
+https://github.com/Samadrangoonwala/Homework-2/tree/HW/Rangoonwala%20HW2
+
+ <h2> Map PNG =</h2>
   <img src ="HW2 Map.png" />
   
   
